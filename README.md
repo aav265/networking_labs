@@ -1,2 +1,2 @@
 # networking_labs
-My Computer Networking coding assignments.
+My computer networking coding assignments.
